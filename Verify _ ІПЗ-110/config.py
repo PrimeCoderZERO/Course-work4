@@ -1,5 +1,5 @@
 config = {
-	"token": "MTEwNTA4NDI1NzUzOTQ3MzQxOA.Gy0b87.JjCxM3zXssn2toTGtHXpIZVvX8ehGNazquqAWc",
+	"token": "",
 	"print": "123",
 	"man": "1114919360386056203",
 	"girl": "1116043638074523779",
